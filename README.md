@@ -15,9 +15,13 @@
 </div>
 
 <div align="center">
-  🪛 <b>Some much appreciated languages and tools:</b>
+  <b>Some much appreciated languages and tools:</b>
 </div>
 
 <div align="center">
-  <img src="svg/csharp.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="svg/csharp.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
+  <img src="svg/react.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="svg/mongodb.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
+  <img src="svg/graphql.svg" title="GraphQL" alt="GraphQL" width="50" height="50"/>&nbsp;
+  <img src="svg/apollo.svg" title="Apollo" alt="Apollo" width="50" height="50"/>;
 </div>
