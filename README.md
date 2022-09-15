@@ -19,5 +19,5 @@
 </div>
 
 <div align="center">
-  <img src="../svg/csharp.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="svg/csharp.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 </div>
