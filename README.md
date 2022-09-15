@@ -15,12 +15,12 @@
 </div>
 
 <br />
+<br />
 
 <div align="center">
   <b>Some much appreciated languages and tools:</b>
 </div>
 
-<br />
 <br />
 <br />
 
